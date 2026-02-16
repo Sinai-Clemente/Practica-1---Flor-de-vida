@@ -40,6 +40,6 @@ comando de creación.
 <img width="829" height="631" alt="Captura de pantalla 2026-02-13 113948" src="https://github.com/user-attachments/assets/bcf098ff-0a51-40eb-87fb-a4ab0fa40330" />
 
 
-5.Resultado
+5. Resultado
 
 <img width="570" height="411" alt="Captura de pantalla 2026-02-13 114010" src="https://github.com/user-attachments/assets/1b977f22-069c-443d-8a5a-04d181957f01" />
